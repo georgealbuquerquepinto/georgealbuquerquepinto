@@ -14,6 +14,7 @@ I'm **George Albuquerque Pinto**, I'm from Cruz, Ceará, **Brazil**. I am an **M
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -24,4 +25,4 @@ I'm **George Albuquerque Pinto**, I'm from Cruz, Ceará, **Brazil**. I am an **M
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-[![Linkedin URL](https://img.shields.io/static/v1?message=georgealbuquerquepinto&label=&nbsp;&color=blue&style=flat-square&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/george-albuquerque-pinto-2776a3b8/) [![Twitter URL](https://img.shields.io/static/v1?message=@GeorgePinto96&label=&nbsp;&color=1ca0f1&style=flat-square&logo=twitter&labelColor=1ca0f1&logoColor=white)](https://twitter.com/GeorgePinto96)
+[![Linkedin URL](https://img.shields.io/static/v1?message=georgealbuquerquepinto&label=&nbsp;&color=blue&style=flat-square&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/george-albuquerque-pinto-2776a3b8/)
