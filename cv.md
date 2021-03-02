@@ -8,7 +8,11 @@ George Edson Albuquerque Pinto
 
 :man_technologist: Experiência profissional
 ----------
-- ##### Ago/2020 à atual: **Grendene S.A.** - *Empresa de grande porte do setor calçadista.*
+- ##### Mar/2021 à atual: **Universidade Vale do Acaraú** - *Universidade estadual do Ceará*
+  - ###### Cargo: **Analista de Sistemas**
+  - ###### Atividades: Analisar demandas e codificar. Efetuar estudo de viabilidade, definição de objetivos e especificações de desenvolvimento. Participar da implementação e da manutenção de sistemas novos e existentes.
+
+- ##### Ago/2020 à Fev/2021: **Grendene S.A.** - *Empresa de grande porte do setor calçadista.*
   - ###### Cargo: **Programador**
   - ###### Atividades: Codificar e realizar testes. Participar da implementação e da manutenção de sistemas novos e existentes.
 
