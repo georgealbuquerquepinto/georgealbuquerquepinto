@@ -33,9 +33,9 @@ George Edson Albuquerque Pinto
   - ###### Atividades: Realizar suporte a usuários, instalar, configurar e dar suporte em micros e redes.
 
 
-:mortar_board: Educação
+:mortar_board: Formação acadêmica
 ---------
-- ##### 2018 à atual: **Mestrado em Ciência da Computação** - *Universidade Federal do Ceará (UFC)*
+- ##### 2018 à 2021: **Mestrado em Ciência da Computação** - *Universidade Federal do Ceará (UFC)*
   - ###### Título da dissertação: **Otimalidade dinâmica: um survey.**
   - ###### Área: **Estrutura de dados**
 
@@ -44,14 +44,16 @@ George Edson Albuquerque Pinto
   - ###### Área: **Teoria dos grafos**
 
 
-:books: Cursos
+:books: Cursos complementares
 --------------------
+- ###### *DevOps Essentials* - *4Linux*
 - ###### *Go: Iniciando com a linguagem do Google* - *Alura*
 - ###### *Go: Orientação a Objetos* - *Alura*
 - ###### *Introdução à Ciência da Computação com Python (USP)* - *Coursera*
 - ###### *Scrum: Agilidade em projetos* - *Alura*
+- ###### *Introdução ao Teste de Software (USP)* - *Coursera*
 
 
-:information_source: Outras informações
+:information_source: Idiomas
 ----------------------------------------
 - ###### Inglês intermediário

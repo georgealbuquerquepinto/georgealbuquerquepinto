@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-:man_technologist: I'm **George Albuquerque Pinto**, I'm from Cruz, Ceará, **Brazil**. I am an **Master** degree student in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the **Parallelism, Graphs and Optimization Research Group** ([ParGO](http://www.lia.ufc.br/~pargo)) at the Department of Computer Science, UFC. I am a **Systems Analyst** and a **Software Developer**. 🚀
+:man_technologist: I'm **George Albuquerque Pinto**, I'm from Cruz, Ceará, **Brazil**. I have an **Master** degree (2021) in **Computer Science** at Federal University of Ceará (UFC). I'm a **Systems Analyst** and a **Software Developer**. 🚀
 
 - 🔭 I’m currently working on:
-  - Finish my Computer Science Master Degree
   - [NTI/UVA](http://www.uvanet.br/) as a Systems Analyst
   - [SIMULAVest](https://simulavest.com/) as a Systems Analyst and a Software Developer
 - 🌱 I’m currently learning C# and Golang
