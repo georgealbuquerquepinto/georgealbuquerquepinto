@@ -47,6 +47,7 @@ George Edson Albuquerque Pinto
 :books: Cursos complementares
 --------------------
 - ###### *DevOps Essentials* - *4Linux*
+- ###### *Vue.js 3 do iniciante ao avançado* - *Vue.js Brasil*
 - ###### *Go: Iniciando com a linguagem do Google* - *Alura*
 - ###### *Go: Orientação a Objetos* - *Alura*
 - ###### *Introdução à Ciência da Computação com Python (USP)* - *Coursera*
