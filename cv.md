@@ -8,7 +8,11 @@ George Edson Albuquerque Pinto
 
 :man_technologist: Experiência profissional
 ----------
-- ##### Mar/2021 à atual: **Universidade Vale do Acaraú** - *Universidade estadual do Ceará*
+- ##### Nov/2021 à atual: **AmBev Tech** - *Cervejaria de grande porte.*
+  - ###### Cargo: **Desenvolvedor**
+  - ###### Atividades: Analisar demandas e codificar. Efetuar estudo de viabilidade, definição de objetivos e especificações de desenvolvimento. Participar da implementação e da manutenção de sistemas novos e existentes. Implementar testes automatizados.
+
+- ##### Mar/2021 à Nov/2021: **Universidade Vale do Acaraú** - *Universidade estadual do Ceará*
   - ###### Cargo: **Analista de Sistemas**
   - ###### Atividades: Analisar demandas e codificar. Efetuar estudo de viabilidade, definição de objetivos e especificações de desenvolvimento. Participar da implementação e da manutenção de sistemas novos e existentes.
 
@@ -16,11 +20,11 @@ George Edson Albuquerque Pinto
   - ###### Cargo: **Programador**
   - ###### Atividades: Codificar e realizar testes. Participar da implementação e da manutenção de sistemas novos e existentes.
 
-- ##### Abr/2017 à Nov/17: **Convence** - *Agência de marketing.*
+- ##### Abr/2017 à Nov/2017: **Convence** - *Agência de marketing.*
   - ###### Cargo: **Programador**
   - ###### Atividades: Analisar demandas e codificar. Efetuar estudo de viabilidade, definição de objetivos e especificações de desenvolvimento. Participar da implementação e da manutenção de sites e sistemas novos e existentes.
 
-- ##### Mar/2017 à Nov/17: **Núcleo de Práticas de Software** - *UVA.*
+- ##### Mar/2017 à Nov/2017: **Núcleo de Práticas de Software** - *UVA.*
   - ###### Cargo: **Programador**
   - ###### Atividades: Codificar e realizar testes. Participar da implementação e da manutenção de sistemas novos e existentes.
 

@@ -3,12 +3,12 @@
 :man_technologist: I'm **George Albuquerque Pinto**, I'm from Cruz, Ceará, **Brazil**. I have an **Master** degree (2021) in **Computer Science** at Federal University of Ceará (UFC). I'm a **Systems Analyst** and a **Software Developer**. 🚀
 
 - 🔭 I’m currently working on:
-  - [NTI/UVA](http://www.uvanet.br/) as a Systems Analyst
+  - [Ambev Tech](https://ambevtech.com.br/) as a Software Developer
   - [SIMULAVest](https://simulavest.com/) as a Systems Analyst and a Software Developer
-- 🌱 I’m currently learning Vue Js, Laravel and Design Patterns
+- 🌱 I’m currently learning Software Testing and Design Patterns
 - :man_technologist: Check out [my CV](cv.md) (in pt-br)
 - :mortar_board: Check out [my academic curriculum](http://lattes.cnpq.br/9425974218267327) (in pt-br)
-- :heart: Things that I like: [reading](https://www.skoob.com.br/usuario/1355698)
+- :heart: Things that I like: [reading](https://www.skoob.com.br/usuario/1355698) and [ride bibe](https://www.strava.com/athletes/35855157)
 
 [![Linkedin URL](https://img.shields.io/static/v1?message=georgealbuquerquepinto&label=&nbsp;&color=blue&style=flat-square&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/georgealbuquerquepinto/)
 
