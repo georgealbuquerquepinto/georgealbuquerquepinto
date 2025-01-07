@@ -39,6 +39,8 @@ George Edson Albuquerque Pinto
 
 :mortar_board: Formação acadêmica
 ---------
+- ##### 2024 à atual: **Pós Graduação Lato Sensu** - *Pontíficia Universidade Católica de Minas Gerais (PUC Minas)*
+
 - ##### 2018 à 2021: **Mestrado em Ciência da Computação** - *Universidade Federal do Ceará (UFC)*
   - ###### Título da dissertação: **Otimalidade dinâmica: um survey.**
   - ###### Área: **Estrutura de dados**

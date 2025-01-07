@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on:
   - [Ambev Tech](https://ambevtech.com.br/) as a Software Developer
   - [SIMULAVest](https://simulavest.com/) as a Systems Analyst and a Software Developer
-- 🌱 I’m currently learning Software Testing and Design Patterns
+- 🌱 I am currently taking pos graduate course in Software Engineering at PUC Minas
 - :man_technologist: Check out [my CV](cv.md) (in pt-br)
 - :mortar_board: Check out [my academic curriculum](http://lattes.cnpq.br/9425974218267327) (in pt-br)
 - :heart: Things that I like: [reading](https://www.skoob.com.br/usuario/1355698) and [ride bibe](https://www.strava.com/athletes/35855157)
